@@ -1,5 +1,7 @@
+@import url("styles/.css");
 :root {
     --cor-de-fundo: #ffffff;
+    --branco:  #cea1a1;
     }
     body {
         background-color: var(--cor-de-fundo);
